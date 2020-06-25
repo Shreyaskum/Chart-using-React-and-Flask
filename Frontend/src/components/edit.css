@@ -1,0 +1,23 @@
+.dropdown {
+  padding-top: 10px;
+  padding-left: 48%;
+}
+
+.chart {
+  padding-top: 40px;
+}
+
+.text {
+  padding-top: 20px;
+  padding-left: 50%;
+  color: red;
+}
+
+.options {
+  padding-left: 50%;
+}
+
+.top {
+  text-align: center;
+  padding-top: 25px;
+}
